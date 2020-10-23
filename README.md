@@ -19,7 +19,7 @@
 <br />
 <br />
 
-[![7h1n0b1's github stats](https://github-readme-stats.vercel.app/api?username=7h1n0b1)](https://github.com/7h1n0b1/github-readme-stats&hide=contribs&count_private=true&show_icons=truetheme=radical)
+[![7h1n0b1's github stats](https://github-readme-stats.vercel.app/api?username=7h1n0b1&hide=contribs,prs)](https://github.com/7h1n0b1/github-readme-stats&count_private=true&show_icons=truetheme=radical)
 
 <br />
 
