@@ -1,6 +1,6 @@
 ### Hi there, I'm Mayank - aka 7h1n0b1 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/7h1n0b1?color=1DA1F2&logo=twitter&style=for-the-badge)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/7h1n0b1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F7h1n0b1&screen_name=7h1n0b1)
 
 ## A Cybersecurity professional | Can write some code | And a contineous learner!!
 
