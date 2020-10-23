@@ -19,5 +19,7 @@
 <br />
 <br />
 
+[![7h1n0b1's github stats](https://github-readme-stats.vercel.app/api?username=7h1n0b1)](https://github.com/7h1n0b1/github-readme-stats&count_private=true&show_icons=truetheme=radical)
+
 [twitter]: https://twitter.com/7h1n0b1
 [linkedin]: https://www.linkedin.com/in/7h1n0b1/
