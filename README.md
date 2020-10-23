@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/7h1n0b1)
 
-## I'm into Cybersecurity | Can write some code | And a contineous learner!!
+## A Cybersecurity professional | Can write some code | And a contineous learner!!
 
 - 🔭 Some content comming soon
 - 🌱 I’m currently learning Terraform and Ansible 🌱
