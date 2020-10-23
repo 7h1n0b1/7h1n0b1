@@ -20,4 +20,4 @@
 <br />
 
 [twitter]: https://twitter.com/7h1n0b1
-[linkedin]: https://linkedin.com/7h1n0b1
+[linkedin]: https://www.linkedin.com/in/7h1n0b1/
