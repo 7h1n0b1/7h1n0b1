@@ -7,7 +7,7 @@
 - 🔭 Some content comming soon
 - 🌱 I’m currently learning Terraform and Ansible 🌱
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Prepare some lab setups
+- 🥅 2021 Goals: Prepare some lab setups
 - ⚡ Fun fact: I love to play guitar and Read books
 
 
