@@ -5,7 +5,7 @@
 ## A Cybersecurity professional | Can write some code | A contineous learner!!
 
 - 🔭 Some content comming soon
-- 🌱 I’m currently learning Terraform and Ansible 🌱
+- 🌱 I’m currently learning about Microservices and DevSecOps 🌱
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Prepare some lab setups
 - ⚡ Fun fact: I love to play guitar and Read books
